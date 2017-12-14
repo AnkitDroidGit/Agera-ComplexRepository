@@ -1,6 +1,6 @@
 # Agera-ComplexRepository
 
-In our [earlier github project](https://github.com/AnkitDroidGit/Agera-Repositories) we have learned about Repository and have implemented `MutableRepository`.
+In our [Agera-Repositories](https://github.com/AnkitDroidGit/Agera-Repositories) we have learned about Repository and have implemented `MutableRepository`.
 Lets now learn complex repository.
 
 
